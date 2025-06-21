@@ -1,7 +1,7 @@
 [project]
 name = "sent-bert"
 version = "0.1.0"
-description = "Add your description here"
+description = "DistilBERT model fine tuned on IMDB movie reviews for enhanced sentiment analysis."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
